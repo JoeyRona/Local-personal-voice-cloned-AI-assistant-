@@ -6,7 +6,8 @@ Developed and tested on Windows 11 with Intel Iris Xe integrated graphics.
 
 ![Pipeline diagram](/architecture.png)
 
-   <img width="662" height="422" alt="image" src="https://github.com/user-attachments/assets/6c7216fc-58fa-47a4-   8f77-    9e7b991148e2" />
+    <img width="662" height="422" alt="image" src="https://github.com/user-attachments/assets/f25a283b-3599-411c-ae9c-c469b697e2ef" />
+
 
 
 ---
