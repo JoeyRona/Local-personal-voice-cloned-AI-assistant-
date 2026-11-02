@@ -4,7 +4,7 @@ A fully offline voice assistant written in Python. You talk to it, it works out 
 
 Developed and tested on Windows 11 with Intel Iris Xe integrated graphics.
 
-![Pipeline diagram](screenshots/architecture.png)
+![Pipeline diagram](/architecture.png)
 
 ---
 
